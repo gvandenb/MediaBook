@@ -154,7 +154,6 @@
 		51B4B8FA1AAA268E00F22F98 /* SearchResultsTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 51B4B8F91AAA268E00F22F98 /* SearchResultsTableViewCell.m */; };
 		51B4B8FD1AAAD5B700F22F98 /* SearchRelatedTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 51B4B8FC1AAAD5B700F22F98 /* SearchRelatedTableViewCell.m */; };
 		51B4B9001AB16C7400F22F98 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 51B4B8FF1AB16C7400F22F98 /* MediaPlayer.framework */; };
-		51B4B9071AB1780500F22F98 /* 04_George_Meets_Allie-Whoops_Hundleys_Great_Escape_HD(2).mov in Resources */ = {isa = PBXBuildFile; fileRef = 51B4B9061AB1780500F22F98 /* 04_George_Meets_Allie-Whoops_Hundleys_Great_Escape_HD(2).mov */; };
 		51B4B90A1AB2DA7C00F22F98 /* VideoPlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 51B4B9091AB2DA7C00F22F98 /* VideoPlayerView.m */; };
 		51B4B90D1AB7CDCA00F22F98 /* PhotoBookViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 51B4B90C1AB7CDCA00F22F98 /* PhotoBookViewController.m */; };
 		51B4B90F1AB7D46100F22F98 /* photo_mask.png in Resources */ = {isa = PBXBuildFile; fileRef = 51B4B90E1AB7D46100F22F98 /* photo_mask.png */; };
@@ -395,7 +394,6 @@
 		51B4B8FB1AAAD5B700F22F98 /* SearchRelatedTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchRelatedTableViewCell.h; sourceTree = "<group>"; };
 		51B4B8FC1AAAD5B700F22F98 /* SearchRelatedTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchRelatedTableViewCell.m; sourceTree = "<group>"; };
 		51B4B8FF1AB16C7400F22F98 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
-		51B4B9061AB1780500F22F98 /* 04_George_Meets_Allie-Whoops_Hundleys_Great_Escape_HD(2).mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "04_George_Meets_Allie-Whoops_Hundleys_Great_Escape_HD(2).mov"; sourceTree = "<group>"; };
 		51B4B9081AB2DA7C00F22F98 /* VideoPlayerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoPlayerView.h; sourceTree = "<group>"; };
 		51B4B9091AB2DA7C00F22F98 /* VideoPlayerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoPlayerView.m; sourceTree = "<group>"; };
 		51B4B90B1AB7CDCA00F22F98 /* PhotoBookViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhotoBookViewController.h; sourceTree = "<group>"; };
@@ -577,7 +575,6 @@
 			children = (
 				51AD98FD1ABD05F200851237 /* circle4.png */,
 				51B4B90E1AB7D46100F22F98 /* photo_mask.png */,
-				51B4B9061AB1780500F22F98 /* 04_George_Meets_Allie-Whoops_Hundleys_Great_Escape_HD(2).mov */,
 				51B4B89E1A9A808C00F22F98 /* foldeffect.mov */,
 				51B4B8F61AA9AE1900F22F98 /* search_button.png */,
 				51B4B8E91AA4449E00F22F98 /* coming_soon.png */,
@@ -979,7 +976,6 @@
 				51AD98FE1ABD05F200851237 /* circle4.png in Resources */,
 				51193A501A5E9C61005104AE /* bknd6.png in Resources */,
 				51B4B8EA1AA4449E00F22F98 /* coming_soon.png in Resources */,
-				51B4B9071AB1780500F22F98 /* 04_George_Meets_Allie-Whoops_Hundleys_Great_Escape_HD(2).mov in Resources */,
 				51755DCE1A7233860087F3A7 /* pencil.png in Resources */,
 				51A1C4031A6131EB00468BBE /* gear2.png in Resources */,
 				51E4BC401A80B33100C21F82 /* popoverArrowRightSimple.png in Resources */,
