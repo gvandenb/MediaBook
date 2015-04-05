@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>502EEA46-0E06-46D3-8E92-DA1950582921</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PictureBook</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1580AA019577879B7A6217062B59EA04F7072415</key>
+		<string>https://github.com/gvandenb/MediaBook.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PictureBook.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1580AA019577879B7A6217062B59EA04F7072415</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gvandenb/MediaBook.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1580AA019577879B7A6217062B59EA04F7072415</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1580AA019577879B7A6217062B59EA04F7072415</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MediaBook</string>
+		</dict>
+	</array>
+</dict>
+</plist>
